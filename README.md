@@ -29,15 +29,6 @@ and smooth animations — to reflect the cafe's intimate and artisanal vibe.
 
 ---
 
-## 🛠️ Built With
-
-| Layer | Technology |
-|---|---|
-| Design & Frontend | Dualite |
-| Database & Backend | Supabase |
-| Hosting | (add yours — Vercel / Netlify) |
-
----
 
 ## 🗄️ Database Structure (Supabase)
 ```
