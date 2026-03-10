@@ -6,7 +6,7 @@ Bengaluru's cozy corner for great coffee and good food.
 ---
 
 ## 🌐 Live Site
-[[Visit Sukino Cafe Website](https://kitchen-website-vs84-dualite.netlify.app/)]
+[Visit Sukino Cafe Website(https://kitchen-website-vs84-dualite.netlify.app/)]
 
 ---
 
